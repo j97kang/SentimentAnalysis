@@ -1,2 +1,2 @@
-# Sentimo_Sentiment_Analysis_App
-Sentimo is a voice journaling app that sympathizes with your feelings!
+# SentimentAnalysis
+Personal copy of the sentiment anaylsis project under the SentimoApp organization.
